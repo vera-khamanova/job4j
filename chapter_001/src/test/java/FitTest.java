@@ -5,6 +5,7 @@ import org.junit.Assert;
 import org.junit.Test;
 
 public class FitTest {
+    //comment
 
     @Test
     public void manWeight() {

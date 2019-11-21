@@ -5,6 +5,7 @@ import org.junit.Test;
 
 
 public class PointTest {
+    //comment
 
     @Test
     public void distance () {
