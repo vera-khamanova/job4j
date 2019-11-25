@@ -1,29 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f19d109-6903-44eb-a396-8c2c5cef7853" name="Default Changelist" comment="" />
+    <list default="true" id="a9671b8d-33da-4d9d-8e4f-9959dc21daa0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/calculator/Git.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_all_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/condition/SqArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/src/main/java/ru/job4j/condition/SqArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/job4j/condition/PointTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/job4j/condition/PointTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/job4j/condition/SqAreaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_001/target/test-classes/ru/job4j/condition/SqAreaTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/job4j.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/calculator/Fit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/SqArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/condition/TrgArea.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/job4j/converter/Converter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.job4j.calculator.FitTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.job4j.condition.PointTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-ru.job4j.condition.SqAreaTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.job4j.calculator.FitTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.job4j.condition.PointTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/ru.job4j.condition.SqAreaTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/calculator/FitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/condition/PointTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ru/job4j/condition/SqAreaTest.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1TtYbyfQBJu75M0UlBokOZV7qsq" />
+  <component name="ProjectId" id="1U4LaQNwfrVMzHVRtB9SumrCm7p" />
   <component name="PropertiesComponent">
-    <property name="last_directory_selection" value="$PROJECT_DIR$/chapter_001/src/test/java/ru/job4j/condition" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,13 +74,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FitTest.manWeight">
-    <configuration name="Fit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.Fit" />
-      <module name="job4j" />
+  <component name="RunManager" selected="Application.DummyBot">
+    <configuration name="DummyBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.DummyBot" />
+      <module name="chapter_001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.job4j.calculator.*" />
+          <option name="PATTERN" value="ru.job4j.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -51,32 +88,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="job4j" />
+    <configuration name="TruckerJob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.TruckerJob" />
+      <module name="chapter_001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.job4j.calculator.*" />
+          <option name="PATTERN" value="ru.job4j.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.FitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyBotTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.job4j.condition" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.DummyBotTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FitTest.manWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="job4j" />
+    <configuration name="DummyBotTest.whenGreetBot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_001" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.job4j.calculator.*" />
+          <option name="PATTERN" value="ru.job4j.condition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ru.job4j.calculator.FitTest" />
-      <option name="METHOD_NAME" value="manWeight" />
+      <option name="PACKAGE_NAME" value="ru.job4j.condition" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.DummyBotTest" />
+      <option name="METHOD_NAME" value="whenGreetBot" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DummyBotTest.whenUnknownBot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="chapter_001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.job4j.condition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ru.job4j.condition" />
+      <option name="MAIN_CLASS_NAME" value="ru.job4j.condition.DummyBotTest" />
+      <option name="METHOD_NAME" value="whenUnknownBot" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -84,9 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FitTest.manWeight" />
-        <item itemvalue="Application.Fit" />
-        <item itemvalue="JUnit.FitTest" />
+        <item itemvalue="Application.DummyBot" />
+        <item itemvalue="JUnit.DummyBotTest" />
+        <item itemvalue="JUnit.DummyBotTest.whenUnknownBot" />
+        <item itemvalue="JUnit.DummyBotTest.whenGreetBot" />
+        <item itemvalue="Application.TruckerJob" />
       </list>
     </recent_temporary>
   </component>
@@ -95,12 +163,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f19d109-6903-44eb-a396-8c2c5cef7853" name="Default Changelist" comment="" />
-      <created>1574280933203</created>
+      <changelist id="a9671b8d-33da-4d9d-8e4f-9959dc21daa0" name="Default Changelist" comment="" />
+      <created>1574610983463</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1574280933203</updated>
+      <updated>1574610983463</updated>
     </task>
+    <task id="LOCAL-00001" summary="Интеграция Git и IDEA[#197091]">
+      <created>1574631393959</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1574631393959</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -115,5 +191,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Интеграция Git и IDEA[#197091]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Интеграция Git и IDEA[#197091]" />
   </component>
 </project>
