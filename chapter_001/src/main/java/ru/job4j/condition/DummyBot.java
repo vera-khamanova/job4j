@@ -17,7 +17,7 @@ public class DummyBot {
        System.out.println(q1);
        String q2 = DummyBot.answer("Пока.");
        System.out.println(q2);
-       String q3 = DummyBot.answer("Как дела?");
+       String q3 = DummyBot.answer("Как у тебя дела?");
         System.out.println(q3);
 
 
