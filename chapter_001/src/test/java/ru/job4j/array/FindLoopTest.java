@@ -33,4 +33,15 @@ public class FindLoopTest {
         int expect = 5;
         assertThat(result, is(expect));
     }
+
+    @Test
+    public void whenArrayHas5Then2() {
+        FindLoop find = new FindLoop();
+        int[] input = new int[]{5, 10, 3};
+        int value = 3;
+        int result = find.indexOf(input, value);
+        int expect = 2;
+        assertThat(result, is(expect));
+    }
+
 }
