@@ -9,10 +9,6 @@ public class ArrayChar {
                 result = false;
                 break;
             }
-            else {
-                result = true;
-            }
-
         }
 
 
